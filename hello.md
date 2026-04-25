@@ -4147,6 +4147,7 @@ Esto es una prueba en local
 - danifleta25
 - FDvck
 - willycasanova
+- hercos
 - mdgarcia4
 - Osmel0000
 - FedericoPorras
